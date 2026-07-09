@@ -1,0 +1,31 @@
+{
+  "project": "AAVA GitHub Tool Integration",
+  "repository": "aava-tool-test-repo",
+  "status": "test",
+  "message": "Sample file for AAVA tool testing",
+  "created_by": "rehnuma1246",
+  "purpose": "This file is used to validate GET (fetch) and PUT (update) operations for the AAVA GitHub Tool.",
+  "test_metadata": {
+    "environment": "sandbox",
+    "version": "1.0.0",
+    "last_updated": "2026-07-09"
+  },
+  "sample_tasks": [
+    {
+      "id": 1,
+      "title": "Fetch file content",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Update file content",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "Validate commit SHA handling",
+      "status": "pending"
+    }
+  ],
+  "notes": "Update the 'status' fields above once each test case is successfully executed by the AAVA Tool."
+}
